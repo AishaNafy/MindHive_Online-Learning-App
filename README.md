@@ -1,5 +1,4 @@
 ## 🦉 MindHive: Online Learning App
----
 
 <p align="center">
   <img src="MindHive/app/src/main/res/drawable/logo.png" width="200">
