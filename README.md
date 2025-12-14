@@ -1,14 +1,13 @@
-## 🧠 MindHive: AI-Powered Mindfulness & Productivity App
-
+## 🦉 MindHive: Online Learning App
 ---
 
 <p align="center">
-  <img src="MindHive-master/app/src/main/res/drawable/logo.png" width="200">
+  <img src="MindHive/app/src/main/res/drawable/logo.png" width="200">
 </p>
 
-MindHive is a smart Kotlin-based mobile application designed to help you enhance mindfulness, improve focus, and boost productivity. By combining guided meditation, task management, and AI-driven insights, MindHive empowers users to cultivate better habits, reduce stress, and maximize efficiency in daily life.  
+MindHive is a smart Kotlin-based mobile application designed to help you enhance mindfulness, improve focus, and boost productivity. By combining guided meditation, task management, and MindHive empowers users to cultivate better habits, reduce stress, and maximize efficiency in daily life.  
 
-Track your tasks, practice mindfulness, and receive personalized insights that help you stay balanced and productive. MindHive is more than an app—it’s your personal companion for mental clarity and growth.  
+Track your tasks, practice mindfulness, and receive personalized insights that help you stay balanced and productive. MindHive is more than an app it’s your personal companion for mental clarity and growth.  
 
 ---
 
